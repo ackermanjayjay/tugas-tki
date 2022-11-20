@@ -1,0 +1,437 @@
+[{
+  "id": "1591340674380861441",
+  "conversation_id": "1591340674380861441",
+  "full_text": "Every story in the world has one of 6 basic plots ..\n\nIn 1995 Kurt Vonnegut chalked out various story arcs on a blackboard, plotting how protagonist fortunes change in the course of a narrative.\n\nNew text-mining techniques are clarifying his work | BBC https://t.co/x8qgBbs03E https://t.co/7u084g6bDj",
+  "reply_count": 0,
+  "retweet_count": 2,
+  "favorite_count": 5,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [
+    {
+      "url": "https://t.co/x8qgBbs03E",
+      "expanded_url": "https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots",
+      "display_url": "bbc.com/culture/articl…"
+    }
+  ],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/FhWT6AQVIAEBQTN.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/neurosocialself/status/1591340674380861441",
+  "created_at": "2022-11-12T08:02:37.000Z"
+},
+{
+  "id": "1592095806836084737",
+  "conversation_id": "1592095806836084737",
+  "full_text": "SoLA invites you to a lecture on “Text Mining for Computational Social Science” by Dr. Lipika Dey (Principal Scientist, TCS Innovation Labs, New Delhi) on Tuesday, November 15, 2022, 6:00 -7:30 pm.\nVenue: Room No.105, Lecture Hall Building, IIT Jodhpur Campus. https://t.co/13n80SD0OG",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/FhhCr69agAASXh4.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/SoLA_IITJ/status/1592095806836084737",
+  "created_at": "2022-11-14T10:03:14.000Z"
+},
+{
+  "id": "1592188426207776770",
+  "conversation_id": "1592188426207776770",
+  "full_text": "Check out our events happening this week! \n\n*Intro to Text Mining in R - happening Tuesday Nov. 15th at 2:30pm\n\n*Confronting Hate on Campus - happening Thursday Nov. 17th at 3pm\n\nClick the link in our bio to register!! https://t.co/DDGR9Iq0Qp",
+  "reply_count": 0,
+  "retweet_count": 1,
+  "favorite_count": 1,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/FhiW7yHXkAECFmx.jpg",
+      "type": "photo"
+    },
+    {
+      "media_url": "https://pbs.twimg.com/media/FhiW7yKXoAUxypl.jpg",
+      "type": "photo"
+    },
+    {
+      "media_url": "https://pbs.twimg.com/media/FhiW7yGXEAE5zfl.jpg",
+      "type": "photo"
+    },
+    {
+      "media_url": "https://pbs.twimg.com/media/FhiW7yJWIAMFqQS.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/CTRL_AU/status/1592188426207776770",
+  "created_at": "2022-11-14T16:11:16.000Z"
+},
+{
+  "id": "1592521418520301568",
+  "conversation_id": "1592521418520301568",
+  "full_text": "The RuMOR team is growing! Thanks to @SSHRC_CRSH 's Special Response Fund for Trainees (Ukraine), we'll be supporting a talented Ukrainian grad student and our analysis will soon expand to include text mining. \n\nWe're grateful to SSHRC for this amazing opportunity! 👏👏👏",
+  "reply_count": 0,
+  "retweet_count": 2,
+  "favorite_count": 9,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+    {
+      "screen_name": "SSHRC_CRSH",
+      "name": "SSHRC",
+      "id_str": "139525231"
+    }
+  ],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/RuMOR_CarletonU/status/1592521418520301568",
+  "created_at": "2022-11-15T14:14:28.000Z"
+},
+{
+  "id": "1592557097103036418",
+  "conversation_id": "1592557097103036418",
+  "full_text": "I'm doing a lot of preaching right now to colleagues at History departments about what's happening w/ text mining research in Europe (which is booming) vs the US (which has invested in data science but excluded humanists). If you're a History chair, you could invite me to talk.",
+  "reply_count": 0,
+  "retweet_count": 7,
+  "favorite_count": 30,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/joguldi/status/1592557097103036418",
+  "created_at": "2022-11-15T16:36:14.000Z"
+},
+{
+  "id": "1592577060483964928",
+  "conversation_id": "1592577060483964928",
+  "full_text": "Why my #Geosis package is simply the most robust package? because it makes you perform an in-depth analysis using simple code. Geosis runs (i) text mining, (ii) network analysis, and (iii) forecasts. Yes, all in one single simple package :)  (PS, it evolves). https://t.co/U8QbuS3RTk",
+  "reply_count": 0,
+  "retweet_count": 1,
+  "favorite_count": 2,
+  "hashtags": [
+    "Geosis"
+  ],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/Fhn3xCfXkAApTQt.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/datum_geek/status/1592577060483964928",
+  "created_at": "2022-11-15T17:55:34.000Z"
+},
+{
+  "id": "1593026803253510144",
+  "conversation_id": "1593026803253510144",
+  "full_text": "Text Mining and Analytics #TextMining https://t.co/JYeks7TJnn",
+  "reply_count": 0,
+  "retweet_count": 7,
+  "favorite_count": 12,
+  "hashtags": [
+    "TextMining"
+  ],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [
+    {
+      "url": "https://t.co/JYeks7TJnn",
+      "expanded_url": "https://imp.i384100.net/c/2840738/1242836/14726?prodsku=crse%3AbVgqTevEEeWvGQrWsIkLlw&u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Ftext-mining&intsrc=CATF_9419",
+      "display_url": "imp.i384100.net/c/2840738/1242…"
+    }
+  ],
+  "media": [],
+  "url": "https://twitter.com/DD_Serena_/status/1593026803253510144",
+  "created_at": "2022-11-16T23:42:41.000Z"
+},
+{
+  "id": "1593045666548547584",
+  "conversation_id": "1593045666548547584",
+  "full_text": "Let's speed up my booming Twitter career! Here I'm presenting my methodological remarks regarding the adaptation of text mining in multi-method criminological research design. @ASCRM41 https://t.co/rDefsVCfbd",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+    {
+      "screen_name": "ASCRM41",
+      "name": "Amer Soc of Crim",
+      "id_str": "2687800424"
+    }
+  ],
+  "urls": [],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/FhuiOh1WYAA0Rkc.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/akos_szigeti/status/1593045666548547584",
+  "created_at": "2022-11-17T00:57:38.000Z"
+},
+{
+  "id": "1593167430372704261",
+  "conversation_id": "1593167430372704261",
+  "full_text": "Are you after a course that will teach you the fundamentals of #Data #Science and Analysis?\n\nLearn:\n\n&gt; Data Management\n&gt; Integration of Python with Stata\n&gt; Missing values and how to manage them\n&gt; Data Visualisation\n&gt; Text mining\n\nBook your place: https://t.co/MaBVA92ojS\n\n#Stata https://t.co/zBHat6x49p",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "hashtags": [
+    "Data",
+    "Science",
+    "Stata"
+  ],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [
+    {
+      "url": "https://t.co/MaBVA92ojS",
+      "expanded_url": "https://pulse.ly/51znuv8osr",
+      "display_url": "pulse.ly/51znuv8osr"
+    }
+  ],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/FhwRVUvX0AEnWBw.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/statauk/status/1593167430372704261",
+  "created_at": "2022-11-17T09:01:29.000Z"
+},
+{
+  "id": "1593777370678206466",
+  "conversation_id": "1593777370678206466",
+  "full_text": "Fundamentals of Predictive Text Mining (Texts in Computer Science) GRMMKQY\n\nhttps://t.co/2j8rUvmtwq https://t.co/5aXLODaVAa",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [
+    {
+      "url": "https://t.co/2j8rUvmtwq",
+      "expanded_url": "https://www.amazon.com/dp/144716749X?tag=wake0d-20",
+      "display_url": "amazon.com/dp/144716749X?…"
+    }
+  ],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/Fh48EICVEAAY-89.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/bruen71/status/1593777370678206466",
+  "created_at": "2022-11-19T01:25:10.000Z"
+},
+{
+  "id": "1593997394684755968",
+  "conversation_id": "1593997394684755968",
+  "full_text": "Awesome strategies for our humanities courses like using- text mining or competitive antedating! This session is ❤️! Thank you @CTYJohnsHopkins ! #NAGC22 https://t.co/GiKdP5UVMM",
+  "reply_count": 1,
+  "retweet_count": 0,
+  "favorite_count": 4,
+  "hashtags": [
+    "NAGC22"
+  ],
+  "symbols": [],
+  "user_mentions": [
+    {
+      "screen_name": "CTYJohnsHopkins",
+      "name": "Johns Hopkins CTY",
+      "id_str": "2296326144"
+    }
+  ],
+  "urls": [],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/Fh8EK8cXEAAkspu.jpg",
+      "type": "photo"
+    },
+    {
+      "media_url": "https://pbs.twimg.com/media/Fh8ELZFXwAMWuxV.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/LwebbLakota/status/1593997394684755968",
+  "created_at": "2022-11-19T15:59:28.000Z"
+},
+{
+  "id": "1594072394762575874",
+  "conversation_id": "1594072394762575874",
+  "full_text": "meaning of life is number 42",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/TextMiningBot/status/1594072394762575874",
+  "created_at": "2022-11-19T20:57:30.000Z"
+},
+{
+  "id": "1594117827740332034",
+  "conversation_id": "1594117827740332034",
+  "full_text": "Brisbane Data, Power BI and AI Bootcamp speaker Jen Gianoulis will be giving a workshop on \"Text Mining Jane Austen with Power BI and R.\"\n\nGrab your free ticket to the event:\nhttps://t.co/F3JQUl3sLn \n\n#Azure #Data #AI #ArtificialIntelligence #BrisbaneBootcamp #PowerBI https://t.co/0NICXtGF3f",
+  "reply_count": 0,
+  "retweet_count": 4,
+  "favorite_count": 2,
+  "hashtags": [
+    "Azure",
+    "Data",
+    "AI",
+    "ArtificialIntelligence",
+    "BrisbaneBootcamp",
+    "PowerBI"
+  ],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [
+    {
+      "url": "https://t.co/F3JQUl3sLn",
+      "expanded_url": "https://buff.ly/2nW0NYn",
+      "display_url": "buff.ly/2nW0NYn"
+    }
+  ],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/Fh9xtzCXgAAMwgP.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/techtalkcorner/status/1594117827740332034",
+  "created_at": "2022-11-19T23:58:02.000Z"
+},
+{
+  "id": "1594133048995459072",
+  "conversation_id": "1594133048995459072",
+  "full_text": "this is a possible tweet",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/TextMiningBot/status/1594133048995459072",
+  "created_at": "2022-11-20T00:58:31.000Z"
+},
+{
+  "id": "1594147784889769984",
+  "conversation_id": "1594147784889769984",
+  "full_text": "It's a Tweet!",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/TextMiningBot/status/1594147784889769984",
+  "created_at": "2022-11-20T01:57:04.000Z"
+},
+{
+  "id": "1594208240249712641",
+  "conversation_id": "1594208240249712641",
+  "full_text": "this is an example tweet",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/TextMiningBot/status/1594208240249712641",
+  "created_at": "2022-11-20T05:57:18.000Z"
+},
+{
+  "id": "1594224431764713473",
+  "conversation_id": "1594224431764713473",
+  "full_text": "this is your next tweet",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/TextMiningBot/status/1594224431764713473",
+  "created_at": "2022-11-20T07:01:38.000Z"
+},
+{
+  "id": "1594240132671864832",
+  "conversation_id": "1594240132671864832",
+  "full_text": "or, maybe, a possible badger",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/TextMiningBot/status/1594240132671864832",
+  "created_at": "2022-11-20T08:04:01.000Z"
+},
+{
+  "id": "1594247273508048896",
+  "conversation_id": "1594247273508048896",
+  "full_text": "Python Text Mining: Perform Text Processing, Word Embedding, Text Classification and Machine Translation (English Edition) NHGIV3Q\n\nhttps://t.co/pTZH2Vda8U https://t.co/kEA8FyKo1h",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [
+    {
+      "url": "https://t.co/pTZH2Vda8U",
+      "expanded_url": "https://www.amazon.com/dp/9389898781?tag=sarasota03-20",
+      "display_url": "amazon.com/dp/9389898781?…"
+    }
+  ],
+  "media": [
+    {
+      "media_url": "https://pbs.twimg.com/media/Fh_nbo1WAAc67WU.jpg",
+      "type": "photo"
+    }
+  ],
+  "url": "https://twitter.com/LianaDouglas6/status/1594247273508048896",
+  "created_at": "2022-11-20T08:32:24.000Z"
+},
+{
+  "id": "1594253538946785280",
+  "conversation_id": "1594253538946785280",
+  "full_text": "and now for something completely different",
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [],
+  "media": [],
+  "url": "https://twitter.com/TextMiningBot/status/1594253538946785280",
+  "created_at": "2022-11-20T08:57:18.000Z"
+}]
